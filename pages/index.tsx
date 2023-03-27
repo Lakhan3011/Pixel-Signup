@@ -25,7 +25,7 @@ export default function Home() {
             </h2>
             <div className="flex flex-col w-3/5">
               <h4 className="text-white text-left text-4xl font-semibold mt-10  ">
-                Experience the future of image management with PIXEl
+                Experience the future of image management with PIXEL
               </h4>
 
               <button className="bg-orange w-60 text-white py-2 h-10 mt-10 px-5 rounded-xl">
